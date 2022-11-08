@@ -33,9 +33,9 @@ Features which are not implemented yet but are being planned (TBI):
 - Maven 3.x
 
 To build carrot-cache with your project:
-- Pull the repository
+- Clone the repository
  ```
- git pull
+ git clone https://github.com/VladRodionov/carrot-cache-demo.git
  ```
 - Install ```carrot-cache``` artifact locally (its in /dist directory)
 
